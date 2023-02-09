@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace masah_154581
+namespace Game_1
 {
     class Program
     {
